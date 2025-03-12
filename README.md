@@ -2,6 +2,15 @@
 
 I am **Harald Bregu** a software developer with a strong interest in web and mobile applications.
 
+## 🧰 My Development stack
+
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031" />
+    <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+
 <!--
 Here are some ideas to get you started:
 
