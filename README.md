@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Harald Bregu** a software developer with a strong interest in web and mobile applications.
+I am **Harald Bregu** a software developer with a strong interest in web, mobile and fullstack applications.
 
 ## My Web Development stack
 <p align="left">
