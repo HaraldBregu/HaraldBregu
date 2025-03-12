@@ -17,7 +17,8 @@ I am **Harald Bregu** a software developer with a strong interest in web and mob
 ## My Mobile Development stack
 <p align="left">
     <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/iPhone-02569B?style=for-the-badge&logo=ios&logoColor=white" />
+    <img src="https://img.shields.io/badge/iPhone-8E8E93?style=for-the-badge&logo=ios&logoColor=white" />
+    <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 
