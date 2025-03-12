@@ -2,13 +2,19 @@
 
 I am **Harald Bregu** a software developer with a strong interest in web and mobile applications.
 
-## 🧰 My Development stack
-
+## My Web Development stack
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />    
 </p>
+
+## My Desktop Development stack
+<p align="left">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
 
 
 <!--
