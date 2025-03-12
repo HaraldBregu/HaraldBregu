@@ -21,6 +21,12 @@ I am **Harald Bregu** a software developer with a strong interest in web and mob
     <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+## Tools i use
+<p align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 <!--
 Here are some ideas to get you started:
