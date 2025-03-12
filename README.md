@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Harald Bregu** <br\>
+I am **Harald Bregu**
 a software developer
 
 <!--
