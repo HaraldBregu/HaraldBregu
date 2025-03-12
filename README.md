@@ -7,7 +7,7 @@ I am **Harald Bregu** a software developer with a strong interest in web and mob
 
 <p align="left">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/React-01ADD8?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 
