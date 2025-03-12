@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I am **Harald Bregu**
-
-a software developer
+I am **Harald Bregu** a software developer with a strong interest in web and mobile applications.
 
 <!--
 Here are some ideas to get you started:
