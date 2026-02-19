@@ -1,24 +1,16 @@
 # Hi there, I'm Harald Bregu 👋
 
-I'm a software developer with a strong interest in web, mobile, and fullstack applications. I love building robust, scalable solutions across multiple platforms.
+I'm a software developer passionate about building meaningful digital products from idea to launch. I enjoy taking concepts from early sketches and transforming them into real, working solutions that people can use and benefit from.
 
-## 🚀 Technologies & Frameworks
+## 🚀 What I Love Doing
 
-### Frontend Web Development
-I build modern, responsive web applications using **React** and **Angular**, leveraging the power of **TypeScript** and **JavaScript** to create maintainable and scalable codebases.
+I love creating awesome products from start to finish. From shaping the initial idea, designing the architecture, solving complex problems, and refining the user experience, I enjoy every phase of the product journey.
 
-### Mobile Development
-I develop cross-platform mobile applications with **Flutter** and **Dart**, as well as native solutions for **iOS** using **Swift** and **Android** using **Kotlin**. I'm passionate about delivering smooth, performant mobile experiences.
+I'm especially motivated by inventing new solutions for old problems, challenging assumptions, and finding smarter, more elegant ways to build things.
 
-### Desktop Applications
-I create cross-platform desktop applications using **Electron**, bringing web technologies to the desktop environment.
+## 💡 How I Work
 
-### Modern Development Tools
-I work with **Effect** for functional programming and building type-safe, composable applications.
-
-## 💡 What I Do
-
-I specialize in fullstack development, working across the entire application stack from frontend user interfaces to mobile apps and desktop solutions. I'm always exploring new technologies and best practices to deliver high-quality software.
+I focus on building robust, scalable products with a strong emphasis on clarity, usability, and long-term maintainability. I enjoy working across the entire product lifecycle, connecting technical decisions with real-world impact.
 
 ## 📫 Let's Connect
 
