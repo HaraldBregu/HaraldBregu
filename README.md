@@ -13,6 +13,7 @@ I'm especially motivated by inventing new solutions for old problems, challengin
 - **[Open Writer](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
 - **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
 - **Octopus** — A modular AI agent. Currently in active development.
+- **OpenBrain** — Reasoning. Currently in design phase.
 - **Criterion** — A classical text editor.
 
 ## How I Work
