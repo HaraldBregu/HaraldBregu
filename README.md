@@ -1,6 +1,6 @@
-# Hi there, I'm Harald Bregu
+# Hi there
 
-I'm a software developer passionate about building meaningful digital products from idea to launch. I enjoy taking concepts from early sketches and transforming them into real, working solutions that people can use and benefit from.
+I'm passionate about building meaningful digital products from idea to launch. I enjoy taking concepts from early sketches and transforming them into real, working solutions that people can use and benefit from.
 
 ## What I Love Doing
 
@@ -10,8 +10,9 @@ I'm especially motivated by inventing new solutions for old problems, challengin
 
 ## What I'm Working On
 
+- **[Open Writer](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
 - **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
-- **Tesseract** — Currently in active development.
+- **Octopus** — A modular AI agent. Currently in active development.
 - **Criterion** — A classical text editor.
 
 ## How I Work
@@ -24,4 +25,4 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 ---
 
-From [LinkedIn](https://www.linkedin.com/in/haraldbregu) | From [email](mailto:harald.bregu@gmail.com)
+From [LinkedIn](https://www.linkedin.com/in/haraldbregu) | From [email](mailto:harald.bregu@gmail.com) | From [Website](https://haraldbregu.com/)
