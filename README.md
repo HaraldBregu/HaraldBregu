@@ -1,4 +1,4 @@
-# Hi there
+# Hi, I'm Harald 👋
 
 I'm passionate about building meaningful digital products from idea to launch. I enjoy taking concepts from early sketches and transforming them into real, working solutions that people can use and benefit from.
 
@@ -13,7 +13,14 @@ I'm especially motivated by inventing new solutions for old problems, challengin
 - ✍️ **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
 - ⚙️ **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
 - 🐙 **Octopus** — A modular AI agent. Currently in active development.
+- 🪖 **[OpenArmy](https://github.com/HaraldBregu/OpenArmy)** — A CLI tool to run multiple AI agents.
 - 🧠 **OpenBrain** — Reasoning. Currently in design phase.
+### Private Repositories
+
+- 📊 **Xmanager** — Sports analytics.
+
+### Open Source Contributions
+
 - 📝 **Criterion** — A classical text editor.
 
 ## How I Work
