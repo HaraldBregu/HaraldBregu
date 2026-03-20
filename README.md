@@ -13,7 +13,7 @@ I'm especially motivated by inventing new solutions for old problems, challengin
 ### Private Repositories
 - 📊 **Xmanager** — Sports analytics.
 ### Open Source Contributions
-- 📝 **Criterion** — A classical text editor.
+- 📝 **[Criterion]([https://github.com/HaraldBregu/OpenArmy](https://github.com/itserr-resilience/wp3-sw-criterion))** — A classical text editor.
 ## How I Work
 I focus on building robust, scalable products with a strong emphasis on clarity, usability, and long-term maintainability. I enjoy working across the entire product lifecycle, connecting technical decisions with real-world impact.
 ## Let's Connect
