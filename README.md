@@ -5,6 +5,7 @@ I love creating awesome products from start to finish. From shaping the initial 
 I'm especially motivated by inventing new solutions for old problems, challenging assumptions, and finding smarter, more elegant ways to build things.
 ## What I'm Working On
 - ✍️ **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
+- 🤖 **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — Personal assistant AI.
 - 🗺️ **[Atlas](https://github.com/HaraldBregu/Atlas)** — An intelligent AI writing agent.
 - ⚙️ **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
 - 🐙 **Octopus** — A modular AI agent. Currently in active development.
