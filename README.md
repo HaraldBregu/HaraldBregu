@@ -1,6 +1,6 @@
 # Hi, I'm Harald 👋
 
-I build digital products from idea to launch — shaping the concept, designing the architecture, and turning it into something people can actually use.
+I build digital products from idea to launch, shaping the concept, designing the architecture, and turning it into something people can actually use.
 
 ## What I'm Working On
 
