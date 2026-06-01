@@ -1,23 +1,30 @@
 # Hi, I'm Harald 👋
-I'm passionate about building meaningful digital products from idea to launch. I enjoy taking concepts from early sketches and transforming them into real, working solutions that people can use and benefit from.
-## What I Love Doing
-I love creating awesome products from start to finish. From shaping the initial idea, designing the architecture, solving complex problems, and refining the user experience, I enjoy every phase of the product journey.
-I'm especially motivated by inventing new solutions for old problems, challenging assumptions, and finding smarter, more elegant ways to build things.
+
+I build digital products from idea to launch — shaping the concept, designing the architecture, and turning it into something people can actually use.
+
 ## What I'm Working On
-- ✍️ **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
-- 🤖 **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — Personal assistant AI.
-- 🗺️ **[Atlas](https://github.com/HaraldBregu/Atlas)** — An intelligent AI writing agent.
-- ⚙️ **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
-- 🐙 **Octopus** — A modular AI agent. Currently in active development.
-- 🪖 **[OpenArmy](https://github.com/HaraldBregu/OpenArmy)** — A CLI tool to run multiple AI agents.
-- 🧠 **OpenBrain** — Reasoning. Currently in design phase.
+
+- **[Friday](https://github.com/HaraldBregu/friday)** — My main project. Currently in active development.
+- **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
+- **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — Personal assistant AI.
+- **[Atlas](https://github.com/HaraldBregu/Atlas)** — An intelligent AI writing agent.
+- **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
+- **Octopus** — A modular AI agent. Currently in active development.
+- **[OpenArmy](https://github.com/HaraldBregu/OpenArmy)** — A CLI tool to run multiple AI agents.
+- **OpenBrain** — Reasoning. Currently in design phase.
+
 ### Private Repositories
-- 📊 **Xmanager** — Sports analytics.
+
+- **Xmanager** — Sports analytics.
+
 ### Open Source Contributions
-- 📝 **[Criterion](https://github.com/itserr-resilience/wp3-sw-criterion)** — A classical text editor.
-## How I Work
-I focus on building robust, scalable products with a strong emphasis on clarity, usability, and long-term maintainability. I enjoy working across the entire product lifecycle, connecting technical decisions with real-world impact.
+
+- **[Criterion](https://github.com/itserr-resilience/wp3-sw-criterion)** — A classical text editor.
+
 ## Let's Connect
-Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+Feel free to reach out if you want to collaborate or just chat about tech.
+
 ---
-From [LinkedIn](https://www.linkedin.com/in/haraldbregu) | From [email](mailto:harald.bregu@gmail.com) | From [Website](https://haraldbregu.com/)
+
+[LinkedIn](https://www.linkedin.com/in/haraldbregu) | [Email](mailto:harald.bregu@gmail.com) | [Website](https://haraldbregu.com/)
