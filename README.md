@@ -1,30 +1,38 @@
-# Hi, I'm Harald 👋
+# Harald Bregu
 
-I build digital products from idea to launch, shaping the concept, designing the architecture, and turning it into something people can actually use.
+I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering.
 
-## What I'm Working On
+## Friday
 
-- **[Friday](https://github.com/HaraldBregu/friday)** — My main project. Currently in active development.
-- **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Currently in active development.
-- **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — Personal assistant AI.
-- **[Atlas](https://github.com/HaraldBregu/Atlas)** — An intelligent AI writing agent.
-- **[Idra](https://github.com/HaraldBregu/idra)** — Currently in active development.
-- **Octopus** — A modular AI agent. Currently in active development.
-- **[OpenArmy](https://github.com/HaraldBregu/OpenArmy)** — A CLI tool to run multiple AI agents.
-- **OpenBrain** — Reasoning. Currently in design phase.
+**[Friday](https://github.com/HaraldBregu/friday)** — My primary project, currently in active development.
 
-### Private Repositories
+## Other Projects
 
-- **Xmanager** — Sports analytics.
+* **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Writing software. Active development.
+* **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — AI personal assistant.
+* **[Atlas](https://github.com/HaraldBregu/Atlas)** — AI writing agent.
+* **[Idra](https://github.com/HaraldBregu/idra)** — Active development.
+* **Octopus** — Modular AI agent. Active development.
+* **[OpenArmy](https://github.com/HaraldBregu/OpenArmy)** — CLI for running multiple AI agents.
+* **OpenBrain** — Reasoning system. Design phase.
+* **Xmanager** *(private)* — Sports analytics.
 
-### Open Source Contributions
+## Open Source
 
-- **[Criterion](https://github.com/itserr-resilience/wp3-sw-criterion)** — A classical text editor.
+**[Criterion](https://github.com/itserr-resilience/wp3-sw-criterion)** — Classical text editor.
 
-## Let's Connect
+## Contact
 
-Feel free to reach out if you want to collaborate or just chat about tech.
+<a href="https://github.com/HaraldBregu">
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="22" height="22" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/haraldbregu">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:harald.bregu@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email">
+</a>
 
----
-
-[LinkedIn](https://www.linkedin.com/in/haraldbregu) | [Email](mailto:harald.bregu@gmail.com) | [Website](https://haraldbregu.com/)
+**[harald.bregu@gmail.com](mailto:harald.bregu@gmail.com)** · [haraldbregu.com](https://haraldbregu.com/)
