@@ -23,13 +23,10 @@ I design and build digital products from concept to production, focusing on soft
   <img src="https://cdn.simpleicons.org/github/181717/ffffff?viewbox=auto" height="22" alt="GitHub">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/haraldbregu" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto" height="22" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
 <a href="mailto:harald.bregu@gmail.com" title="Email">
   <img src="https://cdn.simpleicons.org/gmail/EA4335?viewbox=auto" height="22" alt="Email">
 </a>
 
+[LinkedIn](https://www.linkedin.com/in/haraldbregu)
 **[harald.bregu@gmail.com](mailto:harald.bregu@gmail.com)**
 [haraldbregu.com](https://haraldbregu.com)
