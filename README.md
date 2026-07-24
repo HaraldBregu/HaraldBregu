@@ -1,6 +1,6 @@
 # Harald Bregu
 
-I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering.
+I design and build digital products from concept to production, focusing on software architecture, AI systems, and product engineering.
 
 ## Friday
 
@@ -8,10 +8,10 @@ I design and build digital products from concept to production, with a focus on 
 
 ## Other Projects
 
-* **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Writing software. Active development.
+* **[OpenWriter](https://github.com/HaraldBregu/OpenWriter)** — Writing software.
 * **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — AI personal assistant.
 * **[Atlas](https://github.com/HaraldBregu/Atlas)** — AI writing agent.
-* **[Idra](https://github.com/HaraldBregu/idra)** — Active development.
+* **[Idra](https://github.com/HaraldBregu/idra)** — In active development.
 
 ## Open Source
 
@@ -19,16 +19,17 @@ I design and build digital products from concept to production, with a focus on 
 
 ## Contact
 
-<a href="https://github.com/HaraldBregu">
-  <img src="https://cdn.simpleicons.org/github/181717/ffffff" width="22" height="22" alt="GitHub">
+<a href="https://github.com/HaraldBregu" title="GitHub">
+  <img src="https://cdn.simpleicons.org/github/181717/ffffff?viewbox=auto" height="22" alt="GitHub">
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/haraldbregu">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/haraldbregu" title="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto" height="22" alt="LinkedIn">
 </a>
-&nbsp;
-<a href="mailto:harald.bregu@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email">
+&nbsp;&nbsp;
+<a href="mailto:harald.bregu@gmail.com" title="Email">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335?viewbox=auto" height="22" alt="Email">
 </a>
 
-**[harald.bregu@gmail.com](mailto:harald.bregu@gmail.com)** · [haraldbregu.com](https://haraldbregu.com/)
+**[harald.bregu@gmail.com](mailto:harald.bregu@gmail.com)**
+[haraldbregu.com](https://haraldbregu.com)
