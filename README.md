@@ -12,10 +12,6 @@ I design and build digital products from concept to production, with a focus on 
 * **[Kaioh](https://github.com/HaraldBregu/Kaioh)** — AI personal assistant.
 * **[Atlas](https://github.com/HaraldBregu/Atlas)** — AI writing agent.
 * **[Idra](https://github.com/HaraldBregu/idra)** — Active development.
-* **Octopus** — Modular AI agent. Active development.
-* **[OpenArmy](https://github.com/HaraldBregu/OpenArmy)** — CLI for running multiple AI agents.
-* **OpenBrain** — Reasoning system. Design phase.
-* **Xmanager** *(private)* — Sports analytics.
 
 ## Open Source
 
