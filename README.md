@@ -4,22 +4,16 @@ I design and build digital products from concept to production, with a focus on 
 
 ### Friday
 
-[**Friday**](https://github.com/HaraldBregu/friday) <sub>— My primary project, currently in active development.</sub>
+[**Friday**](https://github.com/HaraldBregu/friday) — My primary project, currently in active development.
 
 ### Other Projects
 
-[**OpenWriter**](https://github.com/HaraldBregu/OpenWriter) <sub>— Writing software.</sub>
-
-[**Kaioh**](https://github.com/HaraldBregu/Kaioh) <sub>— AI personal assistant.</sub>
-
-[**Atlas**](https://github.com/HaraldBregu/Atlas) <sub>— AI writing agent.</sub>
-
-[**Idra**](https://github.com/HaraldBregu/idra) <sub>— In active development.</sub>
-
-### Open Source
-
-[**Criterion**](https://github.com/itserr-resilience/wp3-sw-criterion) <sub>— Classical text editor.</sub>
+[**OpenWriter**](https://github.com/HaraldBregu/OpenWriter) — Writing software.<br>
+[**Kaioh**](https://github.com/HaraldBregu/Kaioh) — AI personal assistant.<br>
+[**Atlas**](https://github.com/HaraldBregu/Atlas) — AI writing agent.<br>
+[**Idra**](https://github.com/HaraldBregu/idra) — In active development.<br>
+[**Criterion**](https://github.com/itserr-resilience/wp3-sw-criterion) — Classical text editor.
 
 ### Contact
 
-<sub>[GitHub](https://github.com/HaraldBregu) · [LinkedIn](https://www.linkedin.com/in/haraldbregu) · [Email](mailto:harald.bregu@gmail.com) · [Website](https://haraldbregu.com)</sub>
+[GitHub](https://github.com/HaraldBregu) · [LinkedIn](https://www.linkedin.com/in/haraldbregu) · [Email](mailto:harald.bregu@gmail.com) · [Website](https://haraldbregu.com)
