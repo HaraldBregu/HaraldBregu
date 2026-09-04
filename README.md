@@ -2,9 +2,9 @@
 
 I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering.
 
-### Friday
+### Kucedr
 
-[**Friday**](https://github.com/HaraldBregu/friday) — My primary project, currently in active development.
+[**Kucedr**](https://github.com/HaraldBregu/kucedr) — A personal AI assistant and companion.
 
 ### Other Projects
 
