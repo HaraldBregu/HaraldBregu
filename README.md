@@ -2,9 +2,9 @@
 
 I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering.
 
-### <img src="assets/kucedr-logo-color.png" alt="Kucedr logo" width="24" valign="middle"> Kucedr
+### <img src="assets/kucedr-logo-color.png" alt="Kucedr logo" width="22" valign="middle"> Kucedr
 
-[**Kucedr**](https://github.com/HaraldBregu/kucedr) — A personal AI assistant and companion.
+[**Kucedr**](https://github.com/HaraldBregu/kucedr) — The personal AI assistant that does things.
 
 ### Other Projects
 
