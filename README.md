@@ -2,7 +2,7 @@
 
 I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering.
 
-### <img src="assets/kucedr-logo-color.png" alt="Kucedr logo" width="22" valign="middle"> Kucedr
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/kucedr-icon-light.svg"><source media="(prefers-color-scheme: light)" srcset="assets/kucedr-icon.svg"><img src="assets/kucedr-icon.svg" alt="Kucedr logo" width="22" height="32" valign="middle"></picture> Kucedr
 
 [**Kucedr**](https://github.com/HaraldBregu/kucedr) — One Desktop Agent. Infinite Personal Tools.<br>
 [**Kucedr Cloud**](https://github.com/HaraldBregu/kucedr-cloud) — Self-hosted AI agent service for connecting applications and agents through A2A.
