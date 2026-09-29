@@ -1,11 +1,14 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/kucedr-icon-light.svg"><source media="(prefers-color-scheme: light)" srcset="assets/kucedr-icon.svg"><img src="assets/kucedr-icon.svg" alt="Kucedr logo" width="22" height="32" valign="middle"></picture> Kucedr
-
-
 # Harald Bregu
 
 I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering. 16+ years across iOS, web, and backend, based in Italy and working remote. Currently building Kucedr, a local-first desktop AI agent.
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/kucedr-icon-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/kucedr-icon.svg">
+  <img src="assets/kucedr-icon.svg" alt="Kucedr logo" width="22" height="32" valign="middle">
+</picture>
 
 ### Kucedr
 
