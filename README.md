@@ -1,45 +1,30 @@
 # Harald Bregu
 
-I design and build digital products from concept to production, with a focus on software architecture, AI systems, and product engineering. 16+ years across iOS, web, and backend, based in Italy and working remote. Currently building Kucedr, a local-first desktop AI agent.
+**Software engineering, architecture, and AI systems**
 
----
+I design and build digital products from concept to production, drawing on more than 16 years of experience across iOS, web, and backend development. Based in Italy, I work remotely.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/kucedr-icon-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/kucedr-icon.svg">
-  <img src="assets/kucedr-icon.svg" alt="Kucedr logo" width="22" height="32" valign="middle">
-</picture>
+[Website](https://haraldbregu.com) · [LinkedIn](https://www.linkedin.com/in/haraldbregu) · [Email](mailto:harald.bregu@gmail.com)
 
-### Kucedr
+## Current work
 
-[**Kucedr**](https://github.com/HaraldBregu/kucedr) — One Desktop Agent. Infinite Personal Tools.  
+My current focus is local-first AI agents and the tools and services that support them.
 
-[**Kucedr Cloud**](https://github.com/HaraldBregu/kucedr-cloud) — Self-hosted AI agent service for connecting applications and agents through A2A.
+- [Kucedr](https://github.com/HaraldBregu/kucedr) — A local-first desktop AI agent for personal tools and workflows.
+- [Kucedr Cloud](https://github.com/HaraldBregu/kucedr-cloud) — A self-hosted AI agent service that connects applications and agents through the Agent-to-Agent (A2A) protocol.
 
-### Other Projects
+## Selected projects
 
-[**OpenWriter**](https://github.com/HaraldBregu/OpenWriter) — Desktop writing software with AI assistance.  
+- [OpenWriter](https://github.com/HaraldBregu/OpenWriter) — Desktop writing software with AI assistance.
+- [Kaioh](https://github.com/HaraldBregu/Kaioh) — A local AI agent runtime with tools, skills, and automation.
+- [Atlas](https://github.com/HaraldBregu/Atlas) — An AI agent with tool calling and web search.
+- [Criterion](https://github.com/itserr-resilience/wp3-sw-criterion) — A desktop editor for scholarly critical editions.
+- [Design Patterns with Swift](https://github.com/HaraldBregu/Design_Patterns_With_Swift) — Practical examples of software design patterns in Swift.
 
-[**Kaioh**](https://github.com/HaraldBregu/Kaioh) — Local AI agent runtime with tools, skills, and automation.  
+## Technical expertise
 
-[**Atlas**](https://github.com/HaraldBregu/Atlas) — AI agent with tool calling and web search.  
-
-[**Criterion**](https://github.com/itserr-resilience/wp3-sw-criterion) — Desktop editor for scholarly critical editions.  
-
-[**Design\_Patterns\_With\_Swift**](https://github.com/HaraldBregu/Design_Patterns_With_Swift) — Programming design patterns in Swift with simple examples.
-
-### What I work with
-
-**Languages** — TypeScript · Swift · Dart · Kotlin · Python · Objective-C  
-
-**Frontend** — Angular · React · Astro · SwiftUI / UIKit  
-
-**Backend &amp; data** — Node.js · REST · GraphQL · MongoDB · SQL  
-
-**Cloud &amp; tooling** — AWS · Git · Linux  
-
-**Focus areas** — software architecture · AI agents · local-first desktop apps · product engineering
-
-### Contact
-
-[GitHub](https://github.com/HaraldBregu) · [LinkedIn](https://www.linkedin.com/in/haraldbregu) · [Email](mailto:harald.bregu@gmail.com) · [Website](https://haraldbregu.com)
+- **Languages:** TypeScript, Swift, Dart, Kotlin, Python, Objective-C
+- **Web:** Angular, React, Astro
+- **Apple platforms:** SwiftUI, UIKit
+- **Backend and data:** Node.js, REST, GraphQL, MongoDB, SQL
+- **Cloud and tooling:** AWS, Git, Linux
