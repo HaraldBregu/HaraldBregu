@@ -21,10 +21,6 @@ My current focus is local-first AI agents and the tools and services that suppor
 - [Criterion](https://github.com/itserr-resilience/wp3-sw-criterion) — A desktop editor for scholarly critical editions.
 - [Design Patterns with Swift](https://github.com/HaraldBregu/Design_Patterns_With_Swift) — Practical examples of software design patterns in Swift.
 
-## Technical expertise
+## What I enjoy
 
-- **Languages:** TypeScript, Swift, Dart, Kotlin, Python, Objective-C
-- **Web:** Angular, React, Astro
-- **Apple platforms:** SwiftUI, UIKit
-- **Backend and data:** Node.js, REST, GraphQL, MongoDB, SQL
-- **Cloud and tooling:** AWS, Git, Linux
+I enjoy turning ideas into useful products, exploring new technologies, and finding simpler ways to solve complex problems. I like experimenting with AI, building tools that make everyday work easier, and sharing what I learn through open-source projects.
